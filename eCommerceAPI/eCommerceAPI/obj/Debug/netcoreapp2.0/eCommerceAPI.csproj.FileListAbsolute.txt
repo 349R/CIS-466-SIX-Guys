@@ -1,0 +1,12 @@
+C:\Users\Russ\source\repos\eCommerceAPI\eCommerceAPI\bin\Debug\netcoreapp2.0\eCommerceAPI.deps.json
+C:\Users\Russ\source\repos\eCommerceAPI\eCommerceAPI\bin\Debug\netcoreapp2.0\eCommerceAPI.runtimeconfig.json
+C:\Users\Russ\source\repos\eCommerceAPI\eCommerceAPI\bin\Debug\netcoreapp2.0\eCommerceAPI.runtimeconfig.dev.json
+C:\Users\Russ\source\repos\eCommerceAPI\eCommerceAPI\bin\Debug\netcoreapp2.0\eCommerceAPI.dll
+C:\Users\Russ\source\repos\eCommerceAPI\eCommerceAPI\obj\Debug\netcoreapp2.0\eCommerceAPI.csprojAssemblyReference.cache
+C:\Users\Russ\source\repos\eCommerceAPI\eCommerceAPI\obj\Debug\netcoreapp2.0\eCommerceAPI.csproj.CoreCompileInputs.cache
+C:\Users\Russ\source\repos\eCommerceAPI\eCommerceAPI\obj\Debug\netcoreapp2.0\eCommerceAPI.AssemblyInfoInputs.cache
+C:\Users\Russ\source\repos\eCommerceAPI\eCommerceAPI\obj\Debug\netcoreapp2.0\eCommerceAPI.AssemblyInfo.cs
+C:\Users\Russ\source\repos\eCommerceAPI\eCommerceAPI\bin\Debug\netcoreapp2.0\eCommerceAPI.pdb
+C:\Users\Russ\source\repos\eCommerceAPI\eCommerceAPI\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Russ\source\repos\eCommerceAPI\eCommerceAPI\obj\Debug\netcoreapp2.0\eCommerceAPI.dll
+C:\Users\Russ\source\repos\eCommerceAPI\eCommerceAPI\obj\Debug\netcoreapp2.0\eCommerceAPI.pdb
